@@ -1,0 +1,9 @@
+.loader {
+    display: flex;
+    justify-content: center;
+}
+
+.vertical {
+    align-items: center;
+    height: 100vh;
+}
